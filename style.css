@@ -1,0 +1,19 @@
+* {
+    user-select: none;
+    cursor: crosshair;
+}
+
+/* 1A1A1A > 2E2E2E > 444444 */
+
+body {
+    background-color: #1A1A1A;   
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+main {
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+}
